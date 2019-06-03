@@ -1,3 +1,6 @@
 t document
+websenseprotected
+websenseprotected
+websenseprotected
 testkeyword
 this is test file
